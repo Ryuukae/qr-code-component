@@ -21,3 +21,21 @@
     border-radius: 10px;
   }
   
+  .card-content {
+    padding: 0 16px;
+  }
+  
+  .card-title {
+    font-size: 1.25rem;
+    font-weight: 700;
+    color: var(--card-title-color);
+    margin: 20px 0 10px 0;
+  }
+  
+  .card-text {
+    font-size: 0.9rem;
+    font-weight: 400;
+    color: var(--card-text-color);
+    margin: 0 0 16px 0;
+    line-height: 1.5;
+  }
